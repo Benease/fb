@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'reproBen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39C716F82DE045DABEA23103E84B092C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E67A979B1BEB488C92FE644584912573 }}
           package: .
